@@ -25,8 +25,8 @@ I am an Artificial Intelligence graduate and an AI Engineer passionate about bui
 ---
 
 ### 📊 My GitHub Stats
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzAnubis&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzAnubis&layout=compact&theme=dark)
+![Ahmed's GitHub Stats](https://github-readme-stats.shion.dev/api?username=itzAnubis&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=itzAnubis&layout=compact&theme=dark)
 
 ---
 
