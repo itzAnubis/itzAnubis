@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="./github_profile_banner.png" alt="Ahmed Sherif Banner" width="100%" />
-</p>
+# Hi, I'm Ahmed Sherif 👋
 
-<h1 align="center">Hi, I'm Ahmed Sherif 👋</h1>
-
-<p align="center">
+<p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3670A0&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Graduate;AI+%26+NLP+Engineer;Workflow+Automation+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3670A0&center=false&vCenter=true&width=600&lines=Artificial+Intelligence+Graduate;AI+%26+NLP+Engineer;Workflow+Automation+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -59,7 +55,13 @@ I am an **Artificial Intelligence graduate** and an **AI Engineer** passionate a
 
 ### 🤝 Connect With Me
 <p align="left">
-  <a href="https://github.com/itzAnubis">
+  <a href="https://github.com/itzAnubis" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-sherif-54a906193/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/201555416130" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
