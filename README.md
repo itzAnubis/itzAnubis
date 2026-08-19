@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,35&height=220&section=header&text=Ahmed%20Sherif&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20NLP%20Engineer%20%7C%20Intelligent%20Automation%20Architect&descFontSize=20&descAlignY=60&descAlign=50" width="100%" alt="Ahmed Sherif Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,35&height=220&section=header&text=Ahmed%20Sherif&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2B%20NLP%20Engineer%20%7C%20Intelligent%20Automation%20Architect&descFontSize=20&descAlignY=60&descAlign=50" width="100%" alt="Ahmed Sherif Header" />
 
   <!-- Animated Dynamic Typing Headline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=00F2FE&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Graduate;Specialized+in+NLP+%26+Deep+Learning;Architecting+Localized+Arabic+NLP+Pipelines;Building+Autonomous+Workflow+Automations;Turning+Complex+Data+into+Production-Ready+APIs" alt="Typing Headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=00F2FE&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Graduate;Specialized+in+NLP+%2B+Deep+Learning;Architecting+Localized+Arabic+NLP+Pipelines;Building+Autonomous+Workflow+Automations;Turning+Complex+Data+into+Production-Ready+APIs" alt="Typing Headline" />
   </a>
 
   <br/><br/>
@@ -100,7 +100,7 @@ Status: Ready for high-impact AI/NLP Engineering and ML Systems roles.
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=itzAnubis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=00f2fe&text_color=c9d1d9" height="185" alt="Ahmed's GitHub Stats" />
+        <img src="https://github-readme-stats.shion.dev/api?username=itzAnubis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=00f2fe&text_color=c9d1d9" height="185" alt="Ahmed's GitHub Stats" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzAnubis&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" height="185" alt="Ahmed's Streak Stats" />
@@ -109,7 +109,7 @@ Status: Ready for high-impact AI/NLP Engineering and ML Systems roles.
   </table>
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzAnubis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itzAnubis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9" height="170" alt="Top Languages" />
 
   <br/><br/>
 
